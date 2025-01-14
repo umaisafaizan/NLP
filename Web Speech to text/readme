@@ -1,1 +1,16 @@
+1. Frontend
+Key Features:
+Intuitive user interface for recording or uploading audio.
+Real-time transcription display.
+Customizable settings for language and accuracy preferences.
+Mobile-friendly design for seamless accessibility.
+
+
+2. Backend
+Technology Used: TTS
+
+
+
+
+Description : A powerful web-based speech-to-text system using TTS technology, enabling real-time transcription and efficient voice-to-text conversion for various applications.
 
