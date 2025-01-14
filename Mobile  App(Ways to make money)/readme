@@ -1,3 +1,9 @@
 library : Django apis , python , sql database
 framework : react native 
 AI Model : Openai chatGPT
+
+
+Description : 
+              This project involves creating a mobile app using Django APIs, a Python-powered backend, and an SQL database, with a React Native frontend.
+The app integrates OpenAI's ChatGPT to provide users with personalized insights and strategies for making money efficiently.
+
