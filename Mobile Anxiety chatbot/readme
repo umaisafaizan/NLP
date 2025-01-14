@@ -1,4 +1,26 @@
-Library : Django Apis, Python, chat-gpt
+1. Frontend
+Key Features:
+Interactive mobile-friendly chat interface.
+Empathetic conversational tone tailored to anxiety-related queries.
+Real-time responses for immediate support.
+Easy navigation for users seeking mental health advice.
 
-Description : This project is a mobile anxiety chatbot app built with Django APIs, Python, and an SQL database, using React Native for the frontend. 
-The app leverages OpenAI's ChatGPT to provide personalized suggestions and coping strategies to help users manage anxiety effectively.
+
+2. Backend
+Technology Used: Django
+
+
+
+3. AI-Powered Conversations
+Technology Used: ChatGPT
+
+
+
+
+4. Python Integration
+Technology Used: Python
+
+
+
+Description : 
+             A compassionate and intelligent mobile chatbot built to assist individuals with anxiety, leveraging Django APIs, Python, and ChatGPT for personalized conversational support and mental health guidance.
