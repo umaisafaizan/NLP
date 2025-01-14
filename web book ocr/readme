@@ -1,1 +1,34 @@
+1. Frontend
+Key Features:
+User-friendly interface for uploading book images or PDFs.
+Real-time display of extracted text for review and editing.
+Responsive design optimized for desktop and mobile use.
 
+
+
+
+2. Backend
+Technology Used: Django
+
+
+
+
+3. OCR Engine
+Technology Used: PaddleOCR
+
+
+
+
+4. AI Integration
+Technology Used: Azure Cognitive Services & Gemini API
+
+
+
+
+5. Cloud Services
+Technology Used: Azure Cloud
+
+
+
+Description : 
+             A comprehensive web-based Optical Character Recognition (OCR) system for extracting and processing text from books, built using PaddleOCR, Azure Cognitive Services, Gemini API, and Django.
