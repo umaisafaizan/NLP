@@ -1,1 +1,31 @@
+1. Frontend
+Key Features:
+User-friendly interface for uploading building plans and images.
+Interactive design tools for annotation and visualization.
+Responsive layout for desktop and mobile devices.
 
+
+
+
+2. Backend
+Technology Used: Django
+
+
+
+3. Image Processing
+Technology Used: OpenCV (cv2)
+
+
+
+
+4. Segmentation and Masking
+Technology Used: Segment Masking
+
+
+5. Cloud Storage
+Technology Used: AWS S3 Bucket
+
+
+
+Description : 
+             An AI-powered web application for analyzing and designing building architecture, utilizing Django, AWS S3 Bucket, OpenCV (cv2), and Segment Masking for efficient image processing and data storage.
