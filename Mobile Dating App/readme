@@ -1,1 +1,20 @@
+description :
+             A feature-rich mobile dating app built using Llama2, Django, Redux, and React Native to provide seamless matchmaking experiences with intelligent recommendations and a responsive user interface.
+
+1. Frontend
+Technology Used: React Native
+
+
+2. Backend
+Technology Used: Django
+
+
+
+3. State Management
+Technology Used: Redux
+
+
+
+4. AI Recommendation System
+Technology Used: Llama2
 
